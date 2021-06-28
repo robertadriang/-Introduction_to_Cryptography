@@ -27,7 +27,6 @@ using namespace std;
 using namespace std::chrono;
 using namespace NTL;
 
-/*
 const int RUNS = 5;
 
 class blum_blum_shub {
@@ -453,4 +452,4 @@ int main()
 	cout << "\tJACOBI clocks/generation: " << jacobiTime << '\n';
 	cout << "\tJACOBI B clocks/generation: " << jacobiBTime << '\n';
 	cout << "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n";
-}*/
+}
